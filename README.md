@@ -18,6 +18,7 @@ and is one of the mandatory projects for the class_
 
 > #### About this project
 >
+> - The copy of the Realtime Database is provided in json format
 > - The comments to make the code understandable, are within the .java archives
 > - This project was written in Android Studio
 > - This repository was created to show the variety of the work I did and experience I gained as a student
