@@ -1,0 +1,98 @@
+{
+  "messages" : {
+    "-LTTBTITyx9y6V2aHU5P" : {
+      "msgId" : "-LTTBTITyx9y6V2aHU5P",
+      "msgText" : "first one here",
+      "msgTime" : "20181211_185528",
+      "msgUser" : "pete"
+    },
+    "-LTTK7YAr7OfDH6ontpg" : {
+      "msgId" : "-LTTK7YAr7OfDH6ontpg",
+      "msgText" : "who am i?",
+      "msgTime" : "20181211_193318",
+      "msgUser" : "pit"
+    },
+    "-LTUBV1UBEY4_iLc44pw" : {
+      "msgId" : "-LTUBV1UBEY4_iLc44pw",
+      "msgText" : "aloha",
+      "msgTime" : "20181211_233513",
+      "msgUser" : "nik"
+    },
+    "-LTUBXPflyHojaBFUcK8" : {
+      "msgId" : "-LTUBXPflyHojaBFUcK8",
+      "msgText" : "bye",
+      "msgTime" : "20181211_233522",
+      "msgUser" : "pit"
+    },
+    "-LTY25HbwvXovORANyGt" : {
+      "msgId" : "-LTY25HbwvXovORANyGt",
+      "msgText" : "dont go",
+      "msgTime" : "20181212_173237",
+      "msgUser" : "nik"
+    },
+    "-LTYve5rdDg0orCg8p-G" : {
+      "msgId" : "-LTYve5rdDg0orCg8p-G",
+      "msgText" : "hi guys",
+      "msgTime" : "20181212_213944",
+      "msgUser" : "kostas"
+    },
+    "-LTifHTxSzxYfmQKfXJT" : {
+      "msgId" : "-LTifHTxSzxYfmQKfXJT",
+      "msgText" : "hi people",
+      "msgTime" : "20181214_234402",
+      "msgUser" : "xristos"
+    },
+    "-LTifM0hqwKvi_DXuTEl" : {
+      "msgId" : "-LTifM0hqwKvi_DXuTEl",
+      "msgText" : "i an here",
+      "msgTime" : "20181214_234420",
+      "msgUser" : "panagiotis"
+    },
+    "-LXEl-jH96J0DskKz0KM" : {
+      "msgId" : "-LXEl-jH96J0DskKz0KM",
+      "msgText" : "still here",
+      "msgTime" : "20190127_164336",
+      "msgUser" : "pit"
+    },
+    "-L_NncnWsjRRlxggWhLB" : {
+      "msgId" : "-L_NncnWsjRRlxggWhLB",
+      "msgText" : "what's up?",
+      "msgTime" : "20190307_173843",
+      "msgUser" : "Shady"
+    }
+  },
+  "users" : {
+    "-LTZ4lASywKFUtqxJW7L" : {
+      "Uid" : "-LTZ4lASywKFUtqxJW7L",
+      "Uname" : "pete"
+    },
+    "-LTZ4umJR0KugXvu5Z9i" : {
+      "Uid" : "-LTZ4umJR0KugXvu5Z9i",
+      "Uname" : "pit"
+    },
+    "-LTZ52z1gCN3lF2lG2Sa" : {
+      "Uid" : "-LTZ52z1gCN3lF2lG2Sa",
+      "Uname" : "nik"
+    },
+    "-LTZ542ETCX9zWdtpunJ" : {
+      "Uid" : "-LTZ542ETCX9zWdtpunJ",
+      "Uname" : "kostas"
+    },
+    "-LTifFE5N3TP2gijsOPo" : {
+      "Uid" : "-LTifFE5N3TP2gijsOPo",
+      "Uname" : "xristos"
+    },
+    "-LTifKunOPyV6tKWZeHc" : {
+      "Uid" : "-LTifKunOPyV6tKWZeHc",
+      "Uname" : "panagiotis"
+    },
+    "-LXEkwdTAdRkKeHMSxl6" : {
+      "Uid" : "-LXEkwdTAdRkKeHMSxl6",
+      "Uname" : "pit"
+    },
+    "-L_NnWDzXriJqvVeOsV8" : {
+      "Uid" : "-L_NnWDzXriJqvVeOsV8",
+      "Uname" : "Shady"
+    }
+  }
+}
